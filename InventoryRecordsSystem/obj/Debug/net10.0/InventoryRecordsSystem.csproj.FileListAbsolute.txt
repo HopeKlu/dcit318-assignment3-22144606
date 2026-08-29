@@ -1,0 +1,15 @@
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\InventoryRecordsSystem\bin\Debug\net10.0\InventoryRecordsSystem.exe
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\InventoryRecordsSystem\bin\Debug\net10.0\InventoryRecordsSystem.deps.json
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\InventoryRecordsSystem\bin\Debug\net10.0\InventoryRecordsSystem.runtimeconfig.json
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\InventoryRecordsSystem\bin\Debug\net10.0\InventoryRecordsSystem.dll
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\InventoryRecordsSystem\bin\Debug\net10.0\InventoryRecordsSystem.pdb
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\InventoryRecordsSystem\obj\Debug\net10.0\InventoryRecordsSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\InventoryRecordsSystem\obj\Debug\net10.0\InventoryRecordsSystem.AssemblyInfoInputs.cache
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\InventoryRecordsSystem\obj\Debug\net10.0\InventoryRecordsSystem.AssemblyInfo.cs
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\InventoryRecordsSystem\obj\Debug\net10.0\InventoryRecordsSystem.csproj.CoreCompileInputs.cache
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\InventoryRecordsSystem\obj\Debug\net10.0\InventoryRecordsSystem.sourcelink.json
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\InventoryRecordsSystem\obj\Debug\net10.0\InventoryRecordsSystem.dll
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\InventoryRecordsSystem\obj\Debug\net10.0\refint\InventoryRecordsSystem.dll
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\InventoryRecordsSystem\obj\Debug\net10.0\InventoryRecordsSystem.pdb
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\InventoryRecordsSystem\obj\Debug\net10.0\InventoryRecordsSystem.genruntimeconfig.cache
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\InventoryRecordsSystem\obj\Debug\net10.0\ref\InventoryRecordsSystem.dll
