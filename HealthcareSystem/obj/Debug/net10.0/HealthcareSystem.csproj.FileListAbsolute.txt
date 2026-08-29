@@ -1,0 +1,15 @@
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.exe
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.deps.json
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.runtimeconfig.json
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.dll
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.pdb
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.AssemblyInfo.cs
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.sourcelink.json
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.dll
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\HealthcareSystem\obj\Debug\net10.0\refint\HealthcareSystem.dll
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.pdb
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.genruntimeconfig.cache
+C:\Users\cadma\Documents\dcit318-assignment3-22144606\HealthcareSystem\obj\Debug\net10.0\ref\HealthcareSystem.dll
